@@ -1,0 +1,4 @@
+requests
+socket
+bs4
+re
